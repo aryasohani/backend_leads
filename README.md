@@ -26,6 +26,7 @@ Built with **FastAPI**, **SQLite**, and **OpenAI API**.
 ---
 #direct command
 start chrome "http://127.0.0.1:8001/docs"; uvicorn main:app --reload --port 8001
+https://backend-leads-gg2u.onrender.com/docs
 
 ## 🛠️ Setup Instructions
 
