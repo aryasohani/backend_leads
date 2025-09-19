@@ -24,6 +24,8 @@ Built with **FastAPI**, **SQLite**, and **OpenAI API**.
 - **Uvicorn** (ASGI server)
 
 ---
+#direct command
+start chrome "http://127.0.0.1:8001/docs"; uvicorn main:app --reload --port 8001
 
 ## 🛠️ Setup Instructions
 
