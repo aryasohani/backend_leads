@@ -29,5 +29,5 @@ Built with **FastAPI**, **SQLite**, and **OpenAI API**.
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/<your-username>/backend-leads-assignment.git
+git remote set-url origin https://github.com/aryasohani/backend_leads.git
 cd backend-leads-assignment
